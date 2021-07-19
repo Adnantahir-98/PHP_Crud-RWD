@@ -2,4 +2,4 @@
 
 
 
-![](imgs/CRUD.png)
+![](img/CRUD.png)
